@@ -1,3 +1,2 @@
 <?
-echo "hello,word";
-
+echo "hhhhhhh:";
